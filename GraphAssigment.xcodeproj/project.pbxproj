@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		437111AB27E50B3D005DC952 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437111AA27E50B3D005DC952 /* main.swift */; };
+		437111B227E50B72005DC952 /* CyclicPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437111B127E50B72005DC952 /* CyclicPermutation.swift */; };
+		437111B427E512D1005DC952 /* RepeatingSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437111B327E512D1005DC952 /* RepeatingSequence.swift */; };
+		437111B627E80847005DC952 /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437111B527E80847005DC952 /* FindTheTownJudge.swift */; };
+		437111B827E81298005DC952 /* NumberOfProvinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437111B727E81298005DC952 /* NumberOfProvinces.swift */; };
+		437111BA27E812A5005DC952 /* FindCenterOfStarGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437111B927E812A5005DC952 /* FindCenterOfStarGraph.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		437111A727E50B3D005DC952 /* GraphAssigment */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GraphAssigment; sourceTree = BUILT_PRODUCTS_DIR; };
 		437111AA27E50B3D005DC952 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		437111B127E50B72005DC952 /* CyclicPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyclicPermutation.swift; sourceTree = "<group>"; };
+		437111B327E512D1005DC952 /* RepeatingSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatingSequence.swift; sourceTree = "<group>"; };
+		437111B527E80847005DC952 /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
+		437111B727E81298005DC952 /* NumberOfProvinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfProvinces.swift; sourceTree = "<group>"; };
+		437111B927E812A5005DC952 /* FindCenterOfStarGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCenterOfStarGraph.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +67,11 @@
 		437111A927E50B3D005DC952 /* GraphAssigment */ = {
 			isa = PBXGroup;
 			children = (
+				437111B127E50B72005DC952 /* CyclicPermutation.swift */,
+				437111B327E512D1005DC952 /* RepeatingSequence.swift */,
+				437111B527E80847005DC952 /* FindTheTownJudge.swift */,
+				437111B727E81298005DC952 /* NumberOfProvinces.swift */,
+				437111B927E812A5005DC952 /* FindCenterOfStarGraph.swift */,
 				437111AA27E50B3D005DC952 /* main.swift */,
 			);
 			path = GraphAssigment;
@@ -120,7 +135,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				437111B427E512D1005DC952 /* RepeatingSequence.swift in Sources */,
+				437111BA27E812A5005DC952 /* FindCenterOfStarGraph.swift in Sources */,
 				437111AB27E50B3D005DC952 /* main.swift in Sources */,
+				437111B627E80847005DC952 /* FindTheTownJudge.swift in Sources */,
+				437111B827E81298005DC952 /* NumberOfProvinces.swift in Sources */,
+				437111B227E50B72005DC952 /* CyclicPermutation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -7,5 +7,16 @@
 
 import Foundation
 
-print("Hello, World!")
+//cyclicPermutation()
 
+repeatingSequence()
+
+//// [[1,1,0],[1,1,0],[0,0,1]]
+//let isConnected = [[1,0,0],[0,1,0],[0,0,1]]
+//let result = findCircleNum(isConnected)
+//
+//print(result)
+//
+//let edges = [[1,2],[5,1],[1,3],[1,4]]
+//let result = findCenter(edges)
+//print(result)
